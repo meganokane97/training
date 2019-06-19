@@ -4,6 +4,6 @@ cache:
 	directories: $HOME/.m2
 notifications:
 	email:
-		recipients: mokane638@qub.ac.uk
+		recipients: meganokane97@github.com
 		on_failure: always
 		on_success: never
